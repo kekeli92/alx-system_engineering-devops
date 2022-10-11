@@ -1,1 +1,1 @@
-15. Everyone is a proponent of strong encryption
+12. Combination
