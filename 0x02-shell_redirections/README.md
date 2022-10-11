@@ -1,1 +1,1 @@
-14. It must be in that file
+Duplicates the last line of the file
