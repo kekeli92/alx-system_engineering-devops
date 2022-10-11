@@ -1,1 +1,1 @@
-11. Don't just count your directories, make your directories count
+Displays the 10 newest files in the current directory
