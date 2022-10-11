@@ -1,1 +1,1 @@
-17. I hate bins
+18. Letters only please
