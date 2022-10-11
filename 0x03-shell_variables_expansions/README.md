@@ -1,1 +1,1 @@
-14. Decimal to Hexadecimal
+15. Everyone is a proponent of strong encryption
