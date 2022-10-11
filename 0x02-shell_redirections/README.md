@@ -1,1 +1,1 @@
-Duplicates the last line of the file
+10. No more javascript
