@@ -1,1 +1,1 @@
-18. Letters only please
+19. A to Z
