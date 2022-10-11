@@ -1,1 +1,1 @@
-Create a script that creates a new global variable, name: BEST and value: School
+8. Every adddition to true knowledge is an addition to human power
