@@ -1,1 +1,1 @@
-9. Divide and rule
+Script that prints an exponential result
